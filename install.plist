@@ -33,9 +33,9 @@
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>com.appcan.zhonghui</string>
+					<string>com.yum.app.fis</string>
 					<key>bundle-version</key>
-					<string>00.00.0004</string>
+					<string>00.01.0001</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>subtitle</key>
