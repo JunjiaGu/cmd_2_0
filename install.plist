@@ -19,7 +19,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>/icon.png</string>
+						<string>http://cmd.fis.hwwt2.com/mobileapps/Icon.png</string>
 					</dict>
 					<dict>
 						<key>kind</key>
